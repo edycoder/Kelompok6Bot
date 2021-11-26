@@ -28,3 +28,9 @@ python monthly.py
 Tunggu beberapa saat hingga selesai
 
 ## Cara Pakai
+### Sudut Pandang Sebagai Siswa
+![Gambar Hasil sudut pandang siswa](https://github.com/edycoder/Kelompok6Bot/blob/main/SiswaPOV.jpeg)
+Siswa hanya perlu mengirim jawaban saja setiap kali program dijalankan dari pihak sekolah
+
+### Hasil Bulanan yang diterima Siswa
+![Gambar Hasil yang diterima siswa](https://github.com/edycoder/Kelompok6Bot/blob/main/Hasil%20Siswa.png)
